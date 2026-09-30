@@ -1,0 +1,65 @@
+{
+  "gasolina": {
+    "distancias_prueba": [
+      50,
+      100,
+      150,
+      200,
+      300
+    ],
+    "consumo_minimo_filtro": 10
+  },
+  "dias_vividos": {
+    "anios_referencia": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "dias_minimos_filtro": 3650
+  },
+  "factorial": {
+    "numeros_prueba": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "minimo_filtro": 3
+  },
+  "jubilacion": {
+    "anios_prueba": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "monto_minimo_filtro": 1000000,
+    "meses_anio": 12
+  },
+  "banco": {
+    "movimientos_prueba": [
+      500,
+      -200,
+      1000,
+      -100,
+      300
+    ],
+    "deposito_minimo_filtro": 300
+  },
+  "viaje": {
+    "distancias_prueba": [
+      50,
+      100,
+      150,
+      200,
+      300
+    ],
+    "minutos_minimos_filtro": 60,
+    "minutos_hora": 60
+  }
+}

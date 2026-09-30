@@ -1,0 +1,4 @@
+Comando para ejecutar en CMD para inicar el servicio de localhost en donde corren los problemas de esa app
+
+
+streamlit run "C:\Users\Braya\OneDrive\Documentos\Programacion Funcional\modelo_funcional\modelo_funcional\app.py"
